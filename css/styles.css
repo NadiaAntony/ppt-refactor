@@ -1,0 +1,60 @@
+.emphasized {
+    font-size: 1.2em;
+}
+
+.title-slide {
+    background-color: #9ecbe8;
+	box-shadow:  0 3px 0 #fff;
+	background-image: url("../images/pt_logo.png");
+    background-position: bottom 2.3% right 2%;
+    background-size: 120px;
+
+}
+
+.title-slide h1 {
+    padding-bottom:20px;
+    color: #434343;
+}
+.title-slide h3, .email {
+    color: #6a6a6a;
+    font-family: 'Verdana', sans-serif;
+    font-size: 1.1em;
+}
+.title-slide h2 {
+    color: #ffffff;
+    font-family: 'Verdana', sans-serif;
+}
+.title-slide .remark-slide-number {
+  display: none;
+}
+
+.remark-slide {
+    font-family: 'Quicksand', sans-serif;
+    color: #6a6a6a;
+}
+
+.remark-slide-content:not(.title-slide) {
+    background-image: url("../images/pt_logo.png");
+    background-position: bottom 2.3% right 2%;
+    background-size: 100px;
+}
+
+.remark-slide-number {
+    display: none;
+ }
+
+h1 {
+    font-family: 'Verdana', sans-serif;
+    padding-bottom:10px;
+    color: #434343;
+}
+
+h2 {
+   font-family: 'Verdana', sans-serif;
+   color: #434343;
+}
+
+a {
+    color: #1AA5FA;
+    text-decoration: none;
+}
