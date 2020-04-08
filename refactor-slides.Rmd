@@ -2,7 +2,7 @@
 title: "Refactoring an R Shiny Application in RStudio"
 subtitle: Nadia Antony
 author: Analytics @ OAITI | nadiantony@hotmail.com
-date: April 8, 2020
+date: April 7, 2020
 output: 
     xaringan::moon_reader:
         css: ["css/styles.css"]
